@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.3.0](https://github.com/JimmyLv/BibiGPT/compare/v1.2.0...v1.3.0) (2023-03-08)
+
+
+### Features
+
+* show login when auth error ([a3b860f](https://github.com/JimmyLv/BibiGPT/commit/a3b860f9f90cfb01454d5f712a75c815bd64fb52))
+
+
+### Bug Fixes
+
+* improve log ([6f69d80](https://github.com/JimmyLv/BibiGPT/commit/6f69d80345b53c87dadd19084300cc2472f1895f))
+* improve the cache for timestamp ([0c7f928](https://github.com/JimmyLv/BibiGPT/commit/0c7f928886e960c45b5531dbc7e26de61c08f96d))
+* increase free count ([8a382ff](https://github.com/JimmyLv/BibiGPT/commit/8a382ffd969f6ba38375746fad399a57f5aba4e1))
+* not redirect for free user ([cfa53c0](https://github.com/JimmyLv/BibiGPT/commit/cfa53c0b8c125930833cbded9bfd919234ca1648))
+* not use vercel image ([c8874f8](https://github.com/JimmyLv/BibiGPT/commit/c8874f8ebcb2293ba6259d9823c4071c9d522bba))
+* support timestamp without "." symbol ([343d4c6](https://github.com/JimmyLv/BibiGPT/commit/343d4c69d16e5178f3e40925fc386d6c49d10b16))
+* update index page ([2b6e8cc](https://github.com/JimmyLv/BibiGPT/commit/2b6e8cc7a2edae47f5766723ae16fc7aa8d3083a))
+
 ## [1.2.0](https://github.com/JimmyLv/BibiGPT/compare/v1.1.0...v1.2.0) (2023-03-07)
 
 
